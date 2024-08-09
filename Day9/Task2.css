@@ -1,0 +1,18 @@
+*
+{
+    margin: 10px;
+
+}
+body
+{
+   
+    background-color:skyblue;
+    background-attachment: fixed;
+    
+}
+#images
+{
+    float:left;
+    width:auto;
+    padding:2px;
+}

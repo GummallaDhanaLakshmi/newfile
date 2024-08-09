@@ -1,0 +1,29 @@
+*
+{
+    margin:10px;
+}
+body
+{
+    background-color:rgb(6, 102, 140);
+}
+h1
+{
+    font-style:normal;
+    color:white;
+}
+b
+{
+    font-size: 20px;
+    
+}
+td
+{
+    ackground-color:rgb(235, 214, 217);
+    background-color: #042838;
+    color:white;
+    font-size: 20px;
+}
+th
+{
+    background-color:#042838;
+}
